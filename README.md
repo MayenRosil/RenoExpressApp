@@ -36,7 +36,7 @@ A continuación listaré los requerimientos que se realizaron y los que no se pu
 
 Realizados:
 - Barra de búsqueda. Se muestra una tabla principal con los datos de Código, Nombre y Categoría del producto, la barra de búsqueda permite buscar filtrando cualquiera de estos tres parámetros. El texto que ingrese se valida si coincide con algún valor en cualquiera de esas tres columnas.
-- Detalle de Prouducto. Cada producto en el listado tiene una columna con un botón para visualizar el detalle del mismo, el cual contiene los demás datos solicitados para cada producto, incluyendo una imagen del mismo, traida desdel el archivo .JSON de datos.
+- Detalle de Producto. Cada producto en el listado tiene una columna con un botón para visualizar el detalle del mismo, el cual contiene los demás datos solicitados para cada producto, incluyendo una imagen del mismo, traida desdel el archivo .JSON de datos.
 - La aplicación cuenta con un sistema de Tabs, el cual lleva a las vistas de Inventario o Registro de Transacción según se presione la deseada.
 - Vista Registro de Transacción. Esta cuenta con un formulario que valida si los datos solicitados han sido ingresados, dando feedback si alguno falta o si todos han sido llenados.
 - Se optó por utilizar la librería React Native, al ser esta una de las opciones como librerías reactiva de javascript.
