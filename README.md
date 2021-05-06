@@ -15,7 +15,7 @@ La versión Web puede encontrarse acá: [Versión Web](https://github.com/MayenR
 
 ### Instalación:
 
-Puede descargar el APK localizado aquí: 
+Puede descargar el APK localizado aquí: [Deacargar App](src)
 
 - Descargar el .ZIP con la raíz del proyecto
 - Ejecutar el comando ```npm i -f``` en la consola dentro de la carpeta del mismo, esto para instalar los módulos dependientes y forzar su instalación
