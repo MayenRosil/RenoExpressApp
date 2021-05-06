@@ -19,7 +19,7 @@ Puede descargar el APK localizado aquí: [Deacargar App](android/app/release)
 
 - Descargar el .ZIP con la raíz del proyecto
 - Ejecutar el comando ```npm i -f``` en la consola dentro de la carpeta del mismo, esto para instalar los módulos dependientes y forzar su instalación
-- Ejecutar el comando ```yarn install``` en la consola dentro de la carpeta del mismo, esto para instalar los módulos dependientes y forzar su instalación
+- Ejecutar el comando ```yarn install``` en la consola dentro de la carpeta del mismo, esto para instalar los módulos dependientes en este gestor de módulos
 - Ejecutar el comando ```npx react-native run-android``` una vez instaladas las dependencias
 
 ### Proceso de Desarrollo:
